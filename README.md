@@ -1,2 +1,1 @@
-## ReadME File
-# Shell Basics
+shell basics
